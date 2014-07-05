@@ -8,5 +8,5 @@ Guillermo Moncecchi
 3. [The Stanford Parser] (http://nbviewer.ipython.org/github/gmonce/nltk_parsing/blob/master/3.%20The%20Stanford%20Parser.ipynb)
 
 
-The complete code for processing functions can be retrieve from [github](https://github.com/gmonce/pln_inco)
+The complete code for processing functions can be retrieve from [github](https://github.com/pln-fing-udelar/pln_inco)
 
